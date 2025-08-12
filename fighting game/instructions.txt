@@ -1,0 +1,20 @@
+make sure u have python 3.8+ & Pygame
+to download it in terminal hit : pip install pygame
+
+to run 
+cd path/to your/folder
+pyhton fighting_game.py
+python3 fighting_game.py
+
+p1
+a=left walk 
+d=right walk
+w=jump
+s=attack
+
+p2
+arrow keys 
+left/right arrow to move
+up arrow to jump 
+down arrow to attack
+
